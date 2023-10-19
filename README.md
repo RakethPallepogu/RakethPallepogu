@@ -2,6 +2,8 @@
 - 👀 I’m interested in tech, web development
 - 🌱 I’m currently learning reactJS
 - 📫 How to reach me, rakethpallepogu@gmail.com
+- 🌏 Visit, https://rakethpallepogu.netlify.app/
+
 
 <!---
 RakethPallepogu/RakethPallepogu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
